@@ -24,6 +24,10 @@ function App() {
     Name:
     <input type="text" name="name" />
   </label>
+  <label>
+    subject:
+    <input type="text" name="subject" />
+  </label>
   <input type="submit" value="Submit" />
 </form>
     </div>
